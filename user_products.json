@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "gooo",
+      "price": 150,
+      "available": true,
+      "weight": 250
+    },
+    {
+      "name": "ffff",
+      "price": 150,
+      "available": true,
+      "weight": 555
+    },
+    {
+      "name": "ggg",
+      "price": 150,
+      "available": true,
+      "weight": 8888888
+    }
+  ]
+}
